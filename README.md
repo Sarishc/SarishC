@@ -3,7 +3,7 @@ I'm Sarish Chavan, a passionate data enthusiast with a keen eye for transforming
 🚀 About Me
 
 🎓 Education:
-  • Currently pursuing an M.S. in Computer Science from Illinois Institute of Technology.
+  - Currently pursuing an M.S. in Computer Science from Illinois Institute of Technology.
   • Earned a B.E. in Computer Science from Savitribai Phule Pune University.
 💡 Technical Skills:
   • Data Analysis & Visualization: SQL, Python, R, Tableau, Power BI, Excel

@@ -2,15 +2,15 @@ I'm Sarish Chavan, a passionate data enthusiast with a keen eye for transforming
 
 🚀 About Me
 
-🎓 Education:
+- 🎓 Education:
   - Currently pursuing an M.S. in Computer Science from Illinois Institute of Technology.
   - Earned a B.E. in Computer Science from Savitribai Phule Pune University.
-💡 Technical Skills:
+- 💡 Technical Skills:
   - Data Analysis & Visualization: SQL, Python, R, Tableau, Power BI, Excel
   - Cloud & Data Engineering: AWS, GCP, Azure, Snowflake
   - Programming Languages: Python, SQL, Go, C++
   - Machine Learning: Hugging Face, GPT, CNN, Deep Learning, Mistral LLM
-🏆 Professional Highlights:
+- 🏆 Professional Highlights:
   - Boosted efficiency by 40% and cut down errors through Python and AWS-powered automation at Nice Systems.
   - Spearheaded the creation of an AWS monitoring solution achieving 99.9% uptime, reducing pipeline failures by 30%.
   - Developed data models and predictive solutions with MedTour Easy, enhancing forecasting accuracy and data processing speed.

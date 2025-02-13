@@ -45,4 +45,4 @@ I'm Sarish Chavan, a passionate data enthusiast with a keen eye for transforming
 📫 How to Reach Me
 
 - Email: chavansarish400@gmail.com
-- LinkedIn: https://www.linkedin.com/sarishrchavan
+- LinkedIn: https://www.linkedin.com/in/sarishrchavan/

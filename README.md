@@ -1,21 +1,5 @@
 I'm Sarish Chavan, a passionate data enthusiast with a keen eye for transforming data into impactful insights. With a strong foundation in Information Systems from Illinois Institute of Technology and hands-on experience in data engineering and machine learning, I am driven by the excitement of solving complex data problems and creating value through innovative solutions.
 
-Languages:
-Python JavaScript SQL Java R
-
-Databases:
-Apache Hive Oracle MySQL MongoDB
-
-Framekworks:
-Apache Spark Apache Hadoop MapReduce Node.js React.js Express.js BeautifulSoup
-
-Libraries:
-NLTK SpaCy Pandas NumPy Matplotlib Scikit-learn OpenCV TensorFlow PyTorch MLlib Selenium pytest
-
-Tools:
-Git Bitbucket JIRA Confluence Raspberry Pi Tableau CI/CD
-
-
 🚀 About Me
 
 - 🎓 Education:

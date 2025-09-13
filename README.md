@@ -46,3 +46,5 @@ I'm Sarish Chavan, a passionate data enthusiast with a keen eye for transforming
 
 - Email: chavansarish400@gmail.com
 - LinkedIn: https://www.linkedin.com/in/sarishrchavan/
+
+<img width="1920" height="912" alt="Screenshot 2025-09-01 at 3 54 12 PM" src="https://github.com/user-attachments/assets/757a2b60-25e3-4632-bca4-d1c721e3b9e9" />
